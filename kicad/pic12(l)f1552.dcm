@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MIKROBUS_CON
+D Mikrobus connector
+K connectors
+$ENDCMP
+#
+#End Doc Library

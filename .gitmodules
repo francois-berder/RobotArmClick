@@ -1,0 +1,6 @@
+[submodule "tests"]
+	path = tests
+	url = git@github.com:francois-berder/RobotArmClick-tests
+[submodule "firmware"]
+	path = firmware
+	url = git@github.com:francois-berder/RobotArmClick-firmware
