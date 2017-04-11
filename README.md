@@ -4,6 +4,8 @@
 
 The robot arm click is a small board which uses the Mikrobus interface to control 4 servos using I2C.
 
+<img align="left" src="robotarmclick.jpg">
+
 This repository contains:
   - The pcb design
   - The firwmare of the PIC present on the RobotArmClick
